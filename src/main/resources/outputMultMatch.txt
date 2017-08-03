@@ -1,0 +1,3 @@
+PENTAX Optio WG-1 GPS 14 MP Rugged Waterproof Digital Camera with 5X Optical Zoom, 2.7-inch LCD and GPS Funtionality (Green )
+[{"manufacturer":"Pentax","family":"Optio","model":"WG-1 GPS","name":"Pentax-WG-1-GPS","announcedDate":"2011-02-06T19:00:00.000-05:00"},{"manufacturer":"Pentax","family":"Optio","model":"WG-1","name":"Pentax-WG-1","announcedDate":"2011-02-06T19:00:00.000-05:00"}]
+
